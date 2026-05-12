@@ -1,0 +1,7 @@
+Test test, this should work
+
+it works for shift spaces
+
+and it works for [];'\./.,~!@$^%$&%$*(^&$&
+
+honestly it should work for anything as long as its an ASCII value that vivado can read properly (if its being used physically then it can be used anywhere)
